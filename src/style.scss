@@ -1,0 +1,10 @@
+body{
+    ul{
+        li{
+            background:red;
+            &.test{
+                color:yellow;
+            }
+        }
+    }
+}
